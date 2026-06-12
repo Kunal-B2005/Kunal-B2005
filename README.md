@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# Hi, I'm Kunaljyoti Bhattacharjee
+ Hi, I'm Kunaljyoti Bhattacharjee
 
 I'm a passionate Computer Science enthusiast with a strong interest in software development, programming, open-source technologies, and Artificial Intelligence. I enjoy exploring how technology works inside and always challenge myself to learn new concepts, tools, and programming methods. 
 
